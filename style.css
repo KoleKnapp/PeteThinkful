@@ -50,7 +50,7 @@ div {
 }
 
 img
-{ display:block; margin: 0 auto; border: 2px; 
+{ display:block; margin:  auto; 
 
 max-width: 200px;
   width: 50%;
@@ -58,16 +58,17 @@ max-width: 200px;
 }
 
 hr {
-  border: 1px 
+  border: 1px solid black
 }
 
-
-
-
+footer{
+  width: 600px;
+  text-align: center;
+}
 
 /* Add your solution below */
 
 .image-circle
 { border-radius: 50%;
- border: 2px color #003049; 
+ border: 2px solid #003049;
 }
